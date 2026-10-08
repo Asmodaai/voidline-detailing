@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://voidline.verbastudio.cz/sitemap.xml

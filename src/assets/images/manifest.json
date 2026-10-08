@@ -1,0 +1,171 @@
+[
+  {
+    "file": "dark-headlight-640.webp",
+    "width": 640,
+    "height": 480,
+    "bytes": 15606,
+    "source": "headlight",
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "file": "dark-headlight-1040.webp",
+    "width": 1040,
+    "height": 780,
+    "bytes": 39722,
+    "source": "headlight",
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "file": "dark-headlight-1600.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 87508,
+    "source": "headlight",
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "file": "exterior-microfiber-400.webp",
+    "width": 400,
+    "height": 250,
+    "bytes": 8756,
+    "source": "exterior",
+    "crop": [
+      0.29,
+      0.36,
+      0.78,
+      0.82
+    ]
+  },
+  {
+    "file": "exterior-microfiber-800.webp",
+    "width": 800,
+    "height": 501,
+    "bytes": 24114,
+    "source": "exterior",
+    "crop": [
+      0.29,
+      0.36,
+      0.78,
+      0.82
+    ]
+  },
+  {
+    "file": "paint-correction-400.webp",
+    "width": 400,
+    "height": 287,
+    "bytes": 17304,
+    "source": "polishing",
+    "crop": [
+      0.4,
+      0.24,
+      0.99,
+      0.88
+    ]
+  },
+  {
+    "file": "paint-correction-800.webp",
+    "width": 800,
+    "height": 575,
+    "bytes": 49068,
+    "source": "polishing",
+    "crop": [
+      0.4,
+      0.24,
+      0.99,
+      0.88
+    ]
+  },
+  {
+    "file": "coating-applicator-400.webp",
+    "width": 400,
+    "height": 307,
+    "bytes": 8310,
+    "source": "coating",
+    "crop": [
+      0,
+      0.49,
+      1,
+      1
+    ]
+  },
+  {
+    "file": "coating-applicator-800.webp",
+    "width": 800,
+    "height": 613,
+    "bytes": 21564,
+    "source": "coating",
+    "crop": [
+      0,
+      0.49,
+      1,
+      1
+    ]
+  },
+  {
+    "file": "interior-care-400.webp",
+    "width": 400,
+    "height": 227,
+    "bytes": 7964,
+    "source": "interior",
+    "crop": [
+      0.24,
+      0.3,
+      0.98,
+      0.93
+    ]
+  },
+  {
+    "file": "interior-care-800.webp",
+    "width": 800,
+    "height": 454,
+    "bytes": 18410,
+    "source": "interior",
+    "crop": [
+      0.24,
+      0.3,
+      0.98,
+      0.93
+    ]
+  },
+  {
+    "file": "surface-polishing-640.webp",
+    "width": 640,
+    "height": 622,
+    "bytes": 42362,
+    "source": "polishing",
+    "crop": [
+      0.4,
+      0.12,
+      1,
+      1
+    ]
+  },
+  {
+    "file": "surface-polishing-1200.webp",
+    "width": 1200,
+    "height": 1166,
+    "bytes": 103392,
+    "source": "polishing",
+    "crop": [
+      0.4,
+      0.12,
+      1,
+      1
+    ]
+  }
+]
